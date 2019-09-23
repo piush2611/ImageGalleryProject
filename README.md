@@ -1,1 +1,1 @@
-This project is a great practice to learn how to divide images into rows and columns and how to showcase your featured pictures in the best possible way. Learned a lot in this project about bootstrap and it's different classes and most importantly how to make a portfolio website for a porfessional photographer.
+
